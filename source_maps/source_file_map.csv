@@ -1,0 +1,9 @@
+stage,source_file,gdrive_url,used_for
+Stage 1,stage1_ligand_identity_audit_all_outputs.xlsx,https://drive.google.com/file/d/1r88JBaV396KBYt3b6nl3-3EZ6zI0FDBm,Table S1; Table 1; ligand identity audit
+Stage 2,stage2_target_ensemble_and_ligand_preparation_all_outputs.xlsx,https://drive.google.com/file/d/1J7M3vTn6cJJMxauVjnHpXtiDsFDnl98b,Table S2; receptor ensemble; docking-ready target set
+Stage 3,stage3_redocking_and_consensus_docking_all_outputs_FINALIZED.xlsx,https://drive.google.com/file/d/1TUB3yqJX9VjCkby6S3G92TFr-hjdWDDS,Tables S3-S5; docking consensus; redocking inventory
+Stage 4/4B,residue-interaction fingerprint outputs,provided in project folder,Tables S6-S8; Figure S1-S3
+Stage 6C,stage6C_deep_gnn_diagnostics_robustness_all_outputs.xlsx,https://drive.google.com/file/d/1h6cY52R67fzz8CeEioahrol0sgndKXRJ,Tables S10-S12; AD and robustness
+Stage 6D,stage6D_molecular_gnn_explainability_all_outputs.xlsx,provided in project folder,Tables S13-S16; Figure 6; Figure S6-S7
+Stage 6E/6E2,3D interaction graph and visualization outputs,provided in project folder,Tables S17-S20; Figure 7; Figure S8
+Stage 7B,stage7B_full_manuscript_gnn_integrated_all_outputs.xlsx,https://drive.google.com/file/d/1jQmpMefR_6tcVxKq7WAaArSmtzgo6I0n,Tables 3-4; Table 7; integrated evidence
