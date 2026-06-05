@@ -1,0 +1,8 @@
+item,value
+Full docking calculations,300
+Successful docking calculations,300
+Failed docking calculations,0
+Main ligands compared,Maca-1; Maca-2
+Positive controls,Erlotinib; Lapatinib; Sorafenib
+Output type,all ligand-target-receptor-seed affinity records
+Full source file,stage3_redocking_and_consensus_docking_all_outputs_FINALIZED.xlsx

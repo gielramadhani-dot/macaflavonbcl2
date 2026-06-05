@@ -1,0 +1,6 @@
+item,value
+Targets,EGFR; HER2; VEGFR2
+Ligands,Maca-1; Maca-2
+Output,residue hotspot ranking and interaction support
+Full source file,stage6E_residue_hotspot_summary.csv
+Recommended use,Supplementary residue-level interpretation

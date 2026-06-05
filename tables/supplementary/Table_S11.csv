@@ -1,0 +1,7 @@
+target,ligand,predicted_pAffinity,pair_rank,delta_Maca2_minus_Maca1,GNN_preferred
+EGFR,Maca-1,5.034,1,-0.11,Maca-1
+EGFR,Maca-2,4.925,2,-0.11,Maca-1
+HER2,Maca-1,5.217,1,-0.086,Maca-1
+HER2,Maca-2,5.131,2,-0.086,Maca-1
+VEGFR2,Maca-1,5.932,1,-0.258,Maca-1
+VEGFR2,Maca-2,5.674,2,-0.258,Maca-1

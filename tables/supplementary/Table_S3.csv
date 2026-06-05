@@ -1,0 +1,7 @@
+item,value
+Target groups,3
+Receptor structures evaluated,13
+Redocking pass,10
+Redocking not passing / excluded from strict interpretation,3
+Validation role,quality-control layer before consensus docking
+Full source file,stage3_redocking_validation.csv

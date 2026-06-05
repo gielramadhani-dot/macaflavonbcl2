@@ -1,0 +1,6 @@
+compound_group,ligand,role,target_coverage,main_use,source_stage
+Main analog,Macaflavone I / Maca-1,Test ligand,EGFR; HER2; VEGFR2,Primary analog prioritized,Stage 1
+Main analog,Macaflavone II / Maca-2,Test ligand,EGFR; HER2; VEGFR2,Close analog comparator,Stage 1
+Positive control,Erlotinib,EGFR reference,EGFR,Target control,Stage 1-2
+Positive control,Lapatinib,HER2 reference,HER2,Target control,Stage 1-2
+Positive control,Sorafenib,VEGFR2 reference,VEGFR2,Target control,Stage 1-2

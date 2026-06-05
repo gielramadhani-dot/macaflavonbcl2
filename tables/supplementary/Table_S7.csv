@@ -1,0 +1,7 @@
+target,ligand,PDB,seed,contact_score,contact_residues
+EGFR,Maca-1,8A2D,42,164.37,14
+EGFR,Maca-2,8A2D,42,104.25,19
+HER2,Maca-1,8U8X,42,127.78,20
+HER2,Maca-2,8U8X,123,130.36,21
+VEGFR2,Maca-1,3EWH,123,147.08,17
+VEGFR2,Maca-2,3EWH,42,132.08,13

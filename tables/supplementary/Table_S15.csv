@@ -1,0 +1,7 @@
+target,ligand_code,ligand,aromatic_core_delta,phenolic_OH_delta,aliphatic_prenyl_delta,hetero_O_delta,methoxy_delta
+EGFR,1,Maca-1,0.215,0.404,0.012,-0.048,NA
+EGFR,2,Maca-2,0.301,0.429,0.171,-0.088,-0.122
+HER2,1,Maca-1,0.182,0.304,-0.059,-0.04,NA
+HER2,2,Maca-2,0.225,0.339,0.022,-0.068,-0.09
+VEGFR2,1,Maca-1,0.883,0.411,0.848,-1.07,NA
+VEGFR2,2,Maca-2,0.706,0.181,0.639,-0.946,-0.054

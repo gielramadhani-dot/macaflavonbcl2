@@ -1,0 +1,4 @@
+target,Maca1_median_affinity,Maca2_median_affinity,delta_Maca2_minus_Maca1,consensus_preferred
+EGFR,-8.971,-9.404,-0.432,Maca-2
+HER2,-10.01,-9.434,0.576,Maca-1
+VEGFR2,-9.842,-8.972,0.87,Maca-1

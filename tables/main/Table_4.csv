@@ -1,0 +1,4 @@
+target,Maca1_GNN_pAffinity,Maca2_GNN_pAffinity,delta_Maca2_minus_Maca1,delta_over_test_RMSE,P_Maca1_gt_Maca2,AD_Maca1,AD_Maca2
+EGFR,5.034,4.925,-0.11,0.139,0.808,outside-cautious,outside-cautious
+HER2,5.217,5.131,-0.086,0.109,0.945,outside-cautious,outside-cautious
+VEGFR2,5.932,5.674,-0.258,0.327,1.0,outside-cautious,outside-cautious

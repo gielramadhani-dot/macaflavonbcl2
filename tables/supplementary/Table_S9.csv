@@ -1,0 +1,9 @@
+dataset_level,rows_or_molecules
+Raw ChEMBL activity rows,14975
+Curated activity-level rows,14968
+Aggregated rows,10545
+Unique molecules,8479
+Train rows,7375
+Validation rows,1588
+Test rows,1582
+Application rows,30

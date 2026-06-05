@@ -1,0 +1,6 @@
+item,value
+Graph type,protein-ligand 3D interaction graph
+Node types,ligand atom nodes; pocket residue nodes
+Residue cutoff,6 Å
+Full source file,stage6E_3d_interaction_graph_nodes.csv
+Recommended use,Supplementary full node list

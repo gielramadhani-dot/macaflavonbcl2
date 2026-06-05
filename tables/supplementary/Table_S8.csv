@@ -1,0 +1,7 @@
+target,ligand,PDB,seed,rep_affinity_kcal_mol,contact_score,contact_residues,main_figure_use
+EGFR,Maca-1,8A2D,42,-10.61,164.37,14,Yes
+EGFR,Maca-2,8A2D,42,-10.3,104.25,19,Yes
+HER2,Maca-1,8U8X,42,-10.95,127.78,20,Yes
+HER2,Maca-2,8U8X,123,-11.62,130.36,21,Yes
+VEGFR2,Maca-1,3EWH,123,-10.9,147.08,17,Yes
+VEGFR2,Maca-2,3EWH,42,-9.212,132.08,13,Yes

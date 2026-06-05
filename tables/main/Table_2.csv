@@ -1,0 +1,7 @@
+target,ligand_code,ligand,PDB,seed,median_docking_kcal_mol,rep_affinity_kcal_mol,contact_score,contact_residues,ligand_atoms,protein_atoms
+EGFR,1,Maca-1,8A2D,42,-8.971,-10.61,164.37,14,31,124
+EGFR,2,Maca-2,8A2D,42,-9.404,-10.3,104.25,19,32,100
+HER2,1,Maca-1,8U8X,42,-10.01,-10.95,127.78,20,31,100
+HER2,2,Maca-2,8U8X,123,-9.434,-11.62,130.36,21,32,106
+VEGFR2,1,Maca-1,3EWH,123,-9.842,-10.9,147.08,17,31,108
+VEGFR2,2,Maca-2,3EWH,42,-8.972,-9.212,132.08,13,32,96

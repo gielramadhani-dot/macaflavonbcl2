@@ -1,0 +1,10 @@
+edge_feature,included
+Distance,Yes
+Inverse distance,Yes
+Exponential proximity,Yes
+H-bond candidate,Yes
+Hydrophobic candidate,Yes
+Aromatic candidate,Yes
+Ionic candidate,Yes
+Close-contact indicator,Yes
+Full source file,stage6E_3d_interaction_graph_edges.csv

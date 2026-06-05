@@ -1,0 +1,7 @@
+target,ligand_code,ligand,graph_id,PDB,seed,contact_score,contact_residues,ligand_atoms,protein_atoms
+EGFR,1,Maca-1,1,8A2D,42,164.37,14,31,124
+EGFR,2,Maca-2,2,8A2D,42,104.25,19,32,100
+HER2,1,Maca-1,12,8U8X,42,127.78,20,31,100
+HER2,2,Maca-2,11,8U8X,123,130.36,21,32,106
+VEGFR2,1,Maca-1,21,3EWH,123,147.08,17,31,108
+VEGFR2,2,Maca-2,22,3EWH,42,132.08,13,32,96

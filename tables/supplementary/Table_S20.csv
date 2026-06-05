@@ -1,0 +1,7 @@
+target,ligand,graph_id,static_PNG,interactive_HTML
+EGFR,Maca-1,1,available,EGFR_8A2D_Maca-1_seed42_interactive_3d.html
+EGFR,Maca-2,2,available,EGFR_8A2D_Maca-2_seed42_interactive_3d.html
+HER2,Maca-1,12,available,HER2_8U8X_Maca-1_seed42_interactive_3d.html
+HER2,Maca-2,11,available,HER2_8U8X_Maca-2_seed123_interactive_3d.html
+VEGFR2,Maca-1,21,available,VEGFR2_3EWH_Maca-1_seed123_interactive_3d.html
+VEGFR2,Maca-2,22,available,VEGFR2_3EWH_Maca-2_seed42_interactive_3d.html

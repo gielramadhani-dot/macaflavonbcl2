@@ -1,0 +1,6 @@
+item,value
+Targets,EGFR; HER2; VEGFR2
+Ligands,Maca-1; Maca-2
+Output granularity,atom index; atom symbol; region label; attribution score
+Full source file,stage6D_atom_level_attribution_table.csv
+Recommended use,Supplementary full atom-level table

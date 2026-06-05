@@ -1,0 +1,10 @@
+item,value
+Train prediction rows,7368
+Validation prediction rows,1588
+Test prediction rows,1582
+Test MAE,0.58
+Test RMSE,0.788
+Test R2,0.623
+Test Pearson r,0.792
+Test Spearman rho,0.781
+Full source file,stage6A2_test_predictions.csv

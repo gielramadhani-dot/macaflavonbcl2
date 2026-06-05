@@ -1,0 +1,6 @@
+item,value
+Docking poses processed for contact fingerprinting,300
+Total residue contacts extracted,4792
+Failed pose parsing,0
+Main outputs,pose-contact overview; target-ligand residue fingerprint; target-ligand contact summary
+Full source file,main_table_15_target_ligand_residue_fingerprint.csv
